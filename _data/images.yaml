@@ -1,0 +1,39 @@
+Image URL templates
+---
+apple: # iOS, macOS, OS X, Whatsapp, ...
+#  - 2016: # iOS 10+, macOS Sierra
+  - current: https://rawgit.com/iamcal/emoji-data/master/img-apple-64/{lowercase hexadecimal code point}.png # 64px
+#microsoft: # Windows
+#  - 2016: # Windows 10 Anniversary
+google: # Noto, Android
+  - current: https://rawgit.com/iamcal/emoji-data/master/img-google-64/{lowercase hexadecimal code point}.png # 64px
+emojione:
+#  - 2017: # 3.0
+#  - 2016: # 2.3
+  - current: https://rawgit.com/iamcal/emoji-data/master/img-emojione-64/{lowercase hexadecimal code point}.png # 64px
+  - 2015: https://github.com/Ranks/emojione-legacy/blob/master/png/{uppercase hexadecimal code point}.png # 1.x
+twitter: # Twemoji
+#  - 2016: # v2
+#  - 2015: # v1
+  - current: https://rawgit.com/iamcal/emoji-data/master/img-twitter-64/{lowercase hexadecimal code point}.png # 64px
+facebook: # Web
+#  - 2017: # v7
+#  - 2016: # v6
+messenger: # by Facebook
+#  - 2016: 
+  - current: https://rawgit.com/iamcal/emoji-data/master/img-messenger-64/{lowercase hexadecimal code point}.png #
+samsung: # Galaxy, TouchWiz, Experience
+#  - 2016: #
+  - 2015: http://hashfla.gs/unicode/emojipedia/possible-provisional/samsung/{lowercase hexadecimal code point}.png # 
+lg: # 
+  - 2015: http://hashfla.gs/unicode/emojipedia/possible-provisional/lg/{lowercase hexadecimal code point}.png
+#emojidex: 
+#kddi: # KDDI, au, EZweb
+  # http://mail.google.com/mail/e/ezweb_ne_jp/{uppercase E4U ID without leading ‘E’}
+  # http://www001.upp.so-net.ne.jp/hdml/emoji/e/{ID}.gif
+#softbank: #
+  # http://creation.mb.softbank.jp/mc/tech/tech_pic/img/{uppercase Unicode PUA ID}_20.gif
+  # http://creation.mb.softbank.jp/mc/tech/tech_pic/img/{uppercase Unicode PUA ID}_20_ani.gif
+#docomo: # NTT Docomo, i-mode
+  # http://www.nttdocomo.co.jp/service/developer/make/content/pictograph/basic/images/{Decimal ID}.gif
+  # http://www.nttdocomo.co.jp/service/developer/make/content/pictograph/extention/images/{Decimal ID − 300}.gif
