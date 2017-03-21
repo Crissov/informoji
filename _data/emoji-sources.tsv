@@ -1,21 +1,3 @@
-# EmojiSources-9.0.0.txt
-# Date: 2016-01-21, 22:00:00 GMT [MS, KW]
-#
-# This file provides mappings between Unicode code points and sequences on one hand
-# and *Shift-JIS codes* for cell phone carrier symbols on the other hand.
-# Each mapping is symmetric ("round trip"), for equivalent Unicode and carrier
-# symbols or sequences. This file does not include best-fit ("fallback")
-# mappings to similar but not equivalent symbols in either mapping direction.
-#
-# Created for Unicode 6.0 by Markus Scherer.
-# Updated for subsequent versions by Ken Whistler (no changes to mappings).
-#
-# Agenda
-# - Sample character
-# - Vendor glyph ID 
-# - Apple PUA
-# - Google PUA
-
 Unicode	DoCoMo	KDDI	SoftBank	Apple	Google
 0023 20E3	F985	F489	F7B0		
 0030 20E3	F990	F7C9	F7C5		
