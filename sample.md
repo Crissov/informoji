@@ -1,5 +1,5 @@
 {% for emoji in site.data.names %}
-  {% include mini-swatch.html codepoint=emoji.codepoints name=emoji.emojidata }}
+  {% include mini-swatch.html codepoint=emoji.codepoints name=emoji.emojidata %}
 {% endfor %}
 <!--
 {% include mini-swatch.html codepoint="1f600" %} 
