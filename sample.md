@@ -1,3 +1,3 @@
 {% for emoji in site.data.emoticons %}
-  {{ emoji.codepoint | downcase }} => {{ emoji.name | upcase }}
+  {% include mini-swatch.html codepoint={{ emoji.codepoint | downcase }} name={{ emoji.name | upcase }} %}
 {% endfor %}
