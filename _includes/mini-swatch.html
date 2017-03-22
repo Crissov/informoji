@@ -1,4 +1,4 @@
-<table>
+<table id="{{ include.name | uri_escape }}">
 <caption>U+{{ include.codepoint | upcase }} <dfn>{{ include.name }}</dfn></caption>
 <tr>
 <td class="native" title="Browser" style="font-size: 64px;">&#x{{ include.codepoint | downcase }};</td>
