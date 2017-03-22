@@ -1,5 +1,3 @@
-{% for emoji in site.data.names %}
-  {{ emoji.emojidata }} 
-  {% include mini-swatch.html codepoint={{ emoji.codepoints }} name=emoji.emojidata %}
+{% for emoji in site.data.emoticons %}
+  {% include mini-swatch.html codepoint={{ emoji.codepoint | downcase }} name={{ emoji.name }} %}
 {% endfor %}
-
