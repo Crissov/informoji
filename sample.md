@@ -1,1 +1,1 @@
-{% include swatch.html codepoint="1f600" %} 
+{% include mini-swatch.html codepoint="1f600" %} 
