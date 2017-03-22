@@ -380,7 +380,7 @@
   "&fitzpatrick3;": { "codepoints": [], "characters": "\u1F3FC" },
   "&fitzpatrick4;": { "codepoints": [], "characters": "\u1F3FD" },
   "&fitzpatrick5;": { "codepoints": [], "characters": "\u1F3FE" },
-  "&fitzpatrick6;": { "codepoints": [], "characters": "\u1F3FF" }
+  "&fitzpatrick6;": { "codepoints": [], "characters": "\u1F3FF" },
   "&five;": { "codepoints": [], "characters": "\u0035\uFE0F\u20E3" },
   "&flag-ac;": { "codepoints": [], "characters": "\u1F1E6\u1F1E8" },
   "&flag-ad;": { "codepoints": [], "characters": "\u1F1E6\u1F1E9" },
@@ -2633,5 +2633,4 @@
   ":zero:": { "codepoints": [], "characters": "\u0030\uFE0F\u20E3" },
   ":zipper_mouth_face:": { "codepoints": [], "characters": "\u1F910" },
   ":zzz:": { "codepoints": [], "characters": "\u1F4A4" }
-  
-}
+  }
