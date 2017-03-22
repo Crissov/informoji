@@ -1,5 +1,5 @@
 <table>
-<caption>&#x{{ include.codepoint }}; U+{{ include.codepoint | upcase }} <dfn>{% if include.name in site.data.names "yay!" %}</dfn></caption>
+<caption>&#x{{ include.codepoint }}; U+{{ include.codepoint | upcase }} <dfn>{% if include.name in site.data.names %} "yay!" {% endif %}</dfn></caption>
 <tr>
 <td class="Apple" title="Apple iOS/macOS"><img src="https://rawgit.com/iamcal/emoji-data/master/img-apple-64/{{ include.codepoint }}.png" alt="" /></td>
 <td class="Google" title="Google Android (Noto)"><img src="https://rawgit.com/iamcal/emoji-data/master/img-google-64/{{ include.codepoint }}.png" alt="" /></td>
