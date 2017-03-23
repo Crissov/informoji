@@ -1,4 +1,19 @@
 title: Informoji
-description: Emoji and Unicode information by Informoji
+description: Emoji and Unicode information
 show_downloads: false
 theme: jekyll-theme-tactile
+navbar-links:
+  Twitter: "http://twitter.com/Informoji"
+  Github: "http://github.com/Crissov/informoji/"
+
+avatar: https://rawgit.com/Ranks/emojione/master/assets/png_512x512/1f936-1f3ff.png
+title-img: https://rawgit.com/Ranks/emojione/master/assets/png_512x512/1f936-1f3ff.png
+
+author:
+  name: Christoph Päper
+  email: "informoji@crissov.de"
+  github: Crissov
+  twitter: Informoji
+#  twitter: Cr1ss0v
+  stackoverflow: "3002699/crissov"
+  stackexchange: "3589744/crissov"
