@@ -1,28 +1,50 @@
-## Semitic Emoji Alphabet
+# Semiji: Emojis as Letters
 
-{% include mini-swatch.html codepoint="1f42e" name="A (ox)" %}
-{% include mini-swatch.html codepoint="1f3e0" name="B (house)" %}
-{% include mini-swatch.html codepoint="1f42a" name="G (camel)" %}<!-- boomerang -->
-{% include mini-swatch.html codepoint="1f6aa" name="D (door)" %}
-{% include mini-swatch.html codepoint="1f64c" name="E (jubilation)" %}<!-- window -->
-{% include mini-swatch.html codepoint="1f4a9" name="V (pile)" %}<!-- hook; W, U -->
-{% include mini-swatch.html codepoint="1f5e1" name="Z (weapon)" %}
-{% include mini-swatch.html codepoint="2696" name="H (courtyard)" %}<!-- wall, thread, yarn; X -->
-{% include mini-swatch.html codepoint="1f6b2" name="T (wheel)" %}<!-- wheel, spindle -->
-{% include mini-swatch.html codepoint="270b" name="Y (hand)" %}<!-- hand, arm; I, J -->
-{% include mini-swatch.html codepoint="1f302" name="L (goad)" %}<!-- goad -->
-{% include mini-swatch.html codepoint="1f4a7" name="M (water)" %}<!-- water -->
-{% include mini-swatch.html codepoint="1f40d" name="N (snake)" %}<!-- snake, tropical fish -->
-{% include mini-swatch.html codepoint="1f41f" name="S (fish)" %}<!-- fish, support -->
-{% include mini-swatch.html codepoint="1f441" name="A (eye)" %}<!-- eye -->
-{% include mini-swatch.html codepoint="1f444" name="P (mouth)" %}<!-- mouth, corner; F -->
-{% include mini-swatch.html codepoint="1f331" name="C (plant)" %}<!-- plant, locust; S -->
-{% include mini-swatch.html codepoint="1f435" name="Q (monkey)" %}<!-- monkey, needle eye -->
-{% include mini-swatch.html codepoint="1f464" name="R (head)" %}<!-- head -->
-{% include mini-swatch.html codepoint="1f31e" name="S (sun)" %}<!-- tooth; ^S -->
-{% include mini-swatch.html codepoint="271d" name="T (mark)" %}<!-- cross -->
+## Proto-Sinaitic Emoji Alphabet
+
+{% include mini-swatch.html codepoint="1f42e" name="ʾalp (ox)" %}<!-- A -->
+{% include mini-swatch.html codepoint="1f3e0" name="bet (house)" %}<!-- B -->
+{% include mini-swatch.html codepoint="1f64c" name="hll (jubilation)" %}<!-- E - or: {% include mini-swatch.html codepoint="1f5bc" name="he (window)" %}-->
+{% include mini-swatch.html codepoint="270b" name="kaf (palm)" %}<!-- of hand; K -->
+{% include mini-swatch.html codepoint="1f4a7" name="mayim (water)" %}<!-- water 1f4a6 Droplets, 1f30a Wave, 1f6b0 Tap/Potable Water; M -->
+{% include mini-swatch.html codepoint="1f40d" name="naḥš (snake)" %}<!-- N - or: {% include mini-swatch.html codepoint="1f40d" name="nun (fish)" %}-->
+{% include mini-swatch.html codepoint="1f441" name="ʿen (eye)" %}<!-- O -->
+{% include mini-swatch.html codepoint="1f464" name="roʾš (head)" %}<!-- P, R; 1f5e3 Speaking Head, 1f5ff Moai, 1f480 Skull -->
+{% include mini-swatch.html codepoint="1f31e" name="šimš (sun)" %}<!-- S; 2600 Sun, 1f506 Bright Button, 1f305 Sunrise, 1f304 ~ over Mountains, 1f307 Sunset, 1f33b Sunflower - or: {% include mini-swatch.html codepoint="1f31e" name="šin (tooth)" %}-->
+{% include mini-swatch.html codepoint="274c" name="tāw (mark)" %}<!-- T; 271d latin cross, 274e cross mark button, 2620 Crossbones, 2694 Crossed Swords, 1f38c Crossed Flags; cross -->
+
+## Phoenician Emoji Alphabet
+
+{% include mini-swatch.html codepoint="1f42e" name="𐤀 ʾālep (ox)" %}<!-- A -->
+{% include mini-swatch.html codepoint="1f3e0" name="𐤁 bēt (house)" %}<!-- B -->
+{% include mini-swatch.html codepoint="1f42a" name="𐤂 gīml (camel)" %}<!-- C/G; 1f42b 2-hump/Bactrian Camel; boomerang -->
+{% include mini-swatch.html codepoint="1f6aa" name="𐤃 dālet (door)" %}<!-- D -->
+{% include mini-swatch.html codepoint="1f5bc" name="𐤄 hē (window)" %}<!-- E; actually Framed Picture -->
+{% include mini-swatch.html codepoint="2693" name="𐤅 wāw (hook)" %}<!-- actually Anchor, 1f4ce Paperclip, 1f5dc Clamp/Compression, , 1f4de Telephone Receiver, 1f527 Wrench, 26cf Pick, 1f3a3 Fishing Pole, 1f374 Fork and Knife; V, W, U, F, Y -->
+{% include mini-swatch.html codepoint="1f5e1" name="𐤆 zayin (weapon)" %}<!-- 1f52b Pistol, 2694 Crossed Swords -->
+{% include mini-swatch.html codepoint="1f3db" name="𐤇 ḥēt (courtyard)" %}<!-- actually Classical Building, 1f3f0 European Castle, 2696 Scales; wall; X -->
+{% include mini-swatch.html codepoint="1f3a1" name="𐤈 ṭēt (wheel)" %}<!-- actually Ferris Wheel, 2638 Wheel of Dharma, 267f Wheelchair, 1f6b2 Bicycle, spindle -->
+{% include mini-swatch.html codepoint="1f4aa" name="𐤉 yōd (hand)" %}<!-- actually Flexed Biceps; arm; I, J -->
+{% include mini-swatch.html codepoint="270b" name="𐤊 kāp (palm)" %}<!-- of hand; 1f590 Fingers Splayed, 1f44b Waving; K -->
+{% include mini-swatch.html codepoint="1f302" name="𐤋 lāmed (goad)" %}<!-- actually Closed Umbrella, 2602 Umbrella, 2614 Umbrella with Raindrops -->
+{% include mini-swatch.html codepoint="1f30a" name="𐤌 mēm (water)" %}<!-- actually Wave, 1f4a7 Drip, 1f4a6 Droplets, 1f6b0 Tap/Potable Water; M -->
+{% include mini-swatch.html codepoint="1f41f" name="𐤍 nūn (fish)" %}<!-- 1f420 Tropical Fish, 1f988 Shark, 1f3a3 Fishing Pole, 2653 Pisces; N -->
+{% include mini-swatch.html codepoint="1f" name="𐤎 sāmek (support)" %}<!-- X -->
+{% include mini-swatch.html codepoint="1f441" name="𐤏 ʿayin (eye)" %}<!-- eye; O -->
+{% include mini-swatch.html codepoint="1f445" name="𐤐 pē (mouth)" %}<!-- actually Tongue, 1f48b Kiss Mark, 1f444 Mouth used for shin; P -->
+{% include mini-swatch.html codepoint="1f3f9" name="𐤑 ṣādē (hunt)" %}<!-- actually Bow and Arrow -->
+{% include mini-swatch.html codepoint="1f4cd" name="𐤒 qōp (needle eye)" %}<!-- actually Round Pushpin; Q -->
+{% include mini-swatch.html codepoint="1f464" name="𐤓 rēš (head)" %}<!-- 1f5e3 Speaking Head, 1f5ff Moai, 1f480 Skull; R -->
+{% include mini-swatch.html codepoint="1f444" name="𐤔 šīn (tooth)" %}<!-- actually Mouth; S -->
+{% include mini-swatch.html codepoint="274c" name="𐤕 tāw (mark)" %}<!-- cross; 271d Latin Cross, 274c Cross Mark, 274e Cross Mark Button, 2620 Crossbones, 2694 Crossed Swords, 1f38c Crossed Flags; T -->
 
 ## Sources
+
+![Equivalent Latin, Greek, Phoenician, Hebrew and Arabic letters side-by-side](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ph%C3%B6nizisch-5Sprachen.svg/300px-Ph%C3%B6nizisch-5Sprachen.svg.png "Side-by-side comparison of the letters of modern descendants of the Phoenician script: Latin, Greek, Hebrew, Arabic")
+
+- https://en.wikipedia.org/wiki/History_of_the_alphabet#Semitic_alphabet
+- https://en.wikipedia.org/wiki/Proto-Sinaitic_script#Development_into_proto-Canaanite
+- https://en.wikipedia.org/wiki/Phoenician_alphabet#Letter_names
 - https://twitter.com/qvarie/status/822434723490197504
 - https://github.com/Crissov/css-counters/blob/master/scientific-counter-styles.css
 
