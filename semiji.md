@@ -4,10 +4,10 @@
 
 {% include mini-swatch.html codepoint="1f42e" name="ʾalp (ox)" %}<!-- A -->
 {% include mini-swatch.html codepoint="1f3e0" name="bet (house)" %}<!-- B -->
-{% include mini-swatch.html codepoint="1f64c" name="hll (jubilation)" %}<!-- E - or: {% include mini-swatch.html codepoint="1f5bc" name="he (window)" %}-->
+{% include mini-swatch.html codepoint="1f64c" name="hll (jubilation)" %}<!-- E - or: include mini-swatch.html codepoint="1f5bc" name="he (window)" -->
 {% include mini-swatch.html codepoint="270b" name="kaf (palm)" %}<!-- of hand; K -->
 {% include mini-swatch.html codepoint="1f4a7" name="mayim (water)" %}<!-- water 1f4a6 Droplets, 1f30a Wave, 1f6b0 Tap/Potable Water; M -->
-{% include mini-swatch.html codepoint="1f40d" name="naḥš (snake)" %}<!-- N - or: {% include mini-swatch.html codepoint="1f40d" name="nun (fish)" %}-->
+{% include mini-swatch.html codepoint="1f40d" name="naḥš (snake)" %}<!-- N - or: include mini-swatch.html codepoint="1f40d" name="nun (fish)" -->
 {% include mini-swatch.html codepoint="1f441" name="ʿen (eye)" %}<!-- O -->
 {% include mini-swatch.html codepoint="1f464" name="roʾš (head)" %}<!-- P, R; 1f5e3 Speaking Head, 1f5ff Moai, 1f480 Skull -->
 {% include mini-swatch.html codepoint="1f31e" name="šimš (sun)" %}<!-- S; 2600 Sun, 1f506 Bright Button, 1f305 Sunrise, 1f304 ~ over Mountains, 1f307 Sunset, 1f33b Sunflower - or: {% include mini-swatch.html codepoint="1f31e" name="šin (tooth)" %}-->
