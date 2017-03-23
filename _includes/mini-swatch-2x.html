@@ -1,0 +1,11 @@
+<table id="{{ include.name | uri_escape }}">
+<caption>U+{{ include.left | upcase }}+{{ include.right | upcase }} <dfn>{{ include.name }}</dfn></caption>
+<tr>
+<td class="native" title="Browser" style="font-size: 64px;">&#x{{ include.left | downcase }};&#x{{ include.right | downcase }};</td>
+<td class="Apple" title="Apple iOS/macOS"><img src="https://rawgit.com/iamcal/emoji-data/master/img-apple-64/{{ include.left | downcase }}.png" alt="" /><img src="https://rawgit.com/iamcal/emoji-data/master/img-apple-64/{{ include.right | downcase }}.png" alt="" /></td>
+<td class="Google" title="Google Android (Noto)"><img src="https://rawgit.com/iamcal/emoji-data/master/img-google-64/{{ include.left | downcase }}.png" alt="" /><img src="https://rawgit.com/iamcal/emoji-data/master/img-google-64/{{ include.right | downcase }}.png" alt="" /></td>
+<td class="Twitter" title="Twitter (Twemoji)"><img src="https://rawgit.com/iamcal/emoji-data/master/img-twitter-64/{{ include.left | downcase }}.png" alt="" /><img src="https://rawgit.com/iamcal/emoji-data/master/img-twitter-64/{{ include.right | downcase }}.png" alt="" /></td>
+<td class="Emojione" title="Emojione"><img src="https://rawgit.com/iamcal/emoji-data/master/img-emojione-64/{{ include.left | downcase }}.png" alt="" /><img src="https://rawgit.com/iamcal/emoji-data/master/img-emojione-64/{{ include.right | downcase }}.png" alt="" /></td>
+<td class="Facebook" title="Facebook Messenger"><img src="https://rawgit.com/iamcal/emoji-data/master/img-messenger-64/{{ include.left | downcase }}.png" alt="" /><img src="https://rawgit.com/iamcal/emoji-data/master/img-messenger-64/{{ include.right | downcase }}.png" alt="" /></td>
+</tr>
+</table>
