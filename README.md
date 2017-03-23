@@ -1,3 +1,7 @@
 Emoji information by [@Informoji](http://twitter.com/Informoji).
 
-Test
+## Various Emoji Samples
+
+- [dancing couples](dancing-couple)
+- [all emoji faces](faces)
+- [Semitic Emoji Alphabet](semiji)
