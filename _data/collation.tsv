@@ -1072,9 +1072,9 @@ Unicode	Version	Description	Category	Group
 2755	6.0	white exclamation mark	Symbols	other-symbol
 2757	5.2	exclamation mark	Symbols	other-symbol
 3030	1.1	wavy dash	Symbols	other-symbol
-00A9	1.1	©	copyright	Symbols	other-symbol
-00AE	1.1	®	registered	Symbols	other-symbol
-2122	1.1	™	trade mark	Symbols	other-symbol
+00A9	1.1	copyright	Symbols	other-symbol
+00AE	1.1	registered	Symbols	other-symbol
+2122	1.1	trade mark	Symbols	other-symbol
 1F51F	6.0	keycap 10	Symbols	keycap
 1F4AF	6.0	hundred points	Symbols	alphanum
 1F520	6.0	input latin uppercase	Symbols	alphanum
