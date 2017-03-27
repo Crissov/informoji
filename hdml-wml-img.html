@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Emojis as image sources</title></head>
+<h1>Emojis as image sources</h1>
+<p>HDML and WML specified methods to access locally stored pictures, which became to be known as emojis. This page tests whether their attribute additions to the <code>img</code> element are <a href="https://discourse.wicg.io/t/linking-to-local-image-resources/1956">supported in HTML5</a> in the browser used to render the source.</p>
+
+<h2><code>localsrc</code> with number</h2>
+<ul>
+<li><img localsrc="287" alt="👎" />
+<li><img localsrc="(y)" alt="👎" />
+<li><img localsrc=":+1:" alt="👎" />
+<li><img localsrc="👍" alt="👎" />
+<li><img localsrc="&#x1f44d;" alt="👎" />
+<li><img localsrc=":thumbs_up:" alt="👎" />
+<li><img localsrc="thumbsUp" alt="👎" />
+<li><img localsrc="yes" alt="👎" />
+<li><img localsrc="ok" alt="👎" />
+<li><img localsrc="okay" alt="👎" />
+<li><img localsrc="okay" alt="👎" />
+<li><img localsrc="pict:emotion/thumbsUp" alt="👎" />
+<li><img localsrc="pict:/emotion/thumbsUp" alt="👎" />
+<li><img localsrc="pict://emotion/thumbsUp" alt="👎" />
+<li><img localsrc="pict:///emotion/thumbsUp" alt="👎" />
+</ul>
+
+<h2><code>icon</code></h2>
+<ul>
+<li><img icon="287" alt="👎" />
+<li><img icon="(y)" alt="👎" />
+<li><img icon=":+1:" alt="👎" />
+<li><img icon="👍" alt="👎" />
+<li><img icon="&#x1f44d;" alt="👎" />
+<li><img icon=":thumbs_up:" alt="👎" />
+<li><img icon="thumbsUp" alt="👎" />
+<li><img icon="yes" alt="👎" />
+<li><img icon="ok" alt="👎" />
+<li><img icon="okay" alt="👎" />
+<li><img icon="pict:emotion/thumbsUp" alt="👎" />
+<li><img icon="pict:/emotion/thumbsUp" alt="👎" />
+<li><img icon="pict://emotion/thumbsUp" alt="👎" />
+<li><img icon="pict:///emotion/thumbsUp" alt="👎" />
+</ul>
+
+<h2>PUA codes</h2>
+<ul>
+<li>&#xF9CC;
+<li>&#xF94E;
+<li>&#xF6D2;
+<li>&#xEBD2;
+<li>&#xE25A;
+<li>&#xE4F9;
+<li>&#xEFD2;
+<li>&#xE727;
+<li>&#x7654;
+</ul>
+
+</html>
