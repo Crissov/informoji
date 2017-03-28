@@ -106,11 +106,11 @@ include mini-swatch.html codepoint="1f31e" name="šin (tooth)" -->
 
 ![Equivalent Latin, Greek, Phoenician, Hebrew and Arabic letters side-by-side](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ph%C3%B6nizisch-5Sprachen.svg/300px-Ph%C3%B6nizisch-5Sprachen.svg.png "Side-by-side comparison of the letters of modern descendants of the Phoenician script: Latin, Greek, Hebrew, Arabic")
 
-- [Wikipedia: History of the alphabet](https://en.wikipedia.org/wiki/History_of_the_alphabet#Semitic_alphabet
-- [Wikipedia: Proto-Sianitic Script]https://en.wikipedia.org/wiki/Proto-Sinaitic_script#Development_into_proto-Canaanite
-- [Wikipedia: Phoenician Alphabet]https://en.wikipedia.org/wiki/Phoenician_alphabet#Letter_names
-- [Twitter: @Qvarie]https://twitter.com/qvarie/status/822434723490197504
-- [Github (Crissov): Scientific CSS counter styles]https://github.com/Crissov/css-counters/blob/master/scientific-counter-styles.css
+- [Wikipedia: History of the alphabet](https://en.wikipedia.org/wiki/History_of_the_alphabet#Semitic_alphabet)
+- [Wikipedia: Proto-Sianitic Script]https://en.wikipedia.org/wiki/Proto-Sinaitic_script#Development_into_proto-Canaanite)
+- [Wikipedia: Phoenician Alphabet]https://en.wikipedia.org/wiki/Phoenician_alphabet#Letter_names)
+- [Twitter: @Qvarie]https://twitter.com/qvarie/status/822434723490197504)
+- [Github (Crissov): Scientific CSS counter styles]https://github.com/Crissov/css-counters/blob/master/scientific-counter-styles.css)
 
 ~~~~ css
 /*
