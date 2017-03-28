@@ -2,6 +2,22 @@
 
 ## Proto-Sinaitic Emoji Alphabet
 
+| Codepoints	| Emojis	| Letter | Representation |
+|-----------	|-------	|-------	|-----------	|
+| 1f42e	| &#x1f42e;	| A _ʾalp_	| ox	|
+| 1f3e0	| &#x1f3e0;	| B _bet_ | house	|
+| 1f64c / 1f932	| &#x1f64c; / &#x1f932;	| E _hll_	| jubilation	|
+| 1f5bc	| &#x1f5bc;	| E _he_	| window	|
+| 270b	| &#x270b;	| K _kaf_	| palm	|
+| 1f4a7 / 1f4a6 / 1f30a	| &#x1f4a7; / &#x1f4a6; / &#x1f30a;	| M _mayim_	| water	|
+| 1f40d	| &#x1f40d;	| N _naḥš_	| snake	|
+| 1f41f	| &#x1f41f;	| N _nun_	| fish	|
+| 1f441	| &#x1f441;	| O _ʿen_	| eye	|
+| 1f464 / 1f5e3 / 1f480	| &#x1f464; / &#x1f5e3; / &#x1f480;	| P/R _roʾš_	| head	|
+| 1f31e / 2600 / 1f506 / 1f33b	| &#x1f31e; / &#x2600;&#xfe0f; / &#x1f506; / &#x1f33b;	| S _šimš_	| sun	|
+| 1f31e	| &#x1f31e;	| S _šin_	| tooth	|
+| 274c / 271d / 274e	| &#x274c; / &#x271d;&#xfe0f; / &#x274e;	| T _tāw_	| mark	|
+
 {% include mini-swatch.html codepoint="1f42e" name="ʾalp (ox)" %}<!-- A -->
 {% include mini-swatch.html codepoint="1f3e0" name="bet (house)" %}<!-- B -->
 {% include mini-swatch.html codepoint="1f64c" name="hll (jubilation)" %}<!-- E; Unicode 10: 1f932 Palms up Together; 
