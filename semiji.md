@@ -2,9 +2,13 @@
 
 ## Proto-Sinaitic Emoji Alphabet
 
+### Proto-Sinaitic Set
+
 | A	| B	| E	| K	| M	| N	| O	| P/R	| S	| T	|
 |---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
 | &#x1f42e;	| &#x1f3e0;	| &#x1f64c; / &#x1f932;	| &#x1f5bc;	| &#x270b;	| &#x1f4a7; &#x1f4a6; / &#x1f30a;	| &#x1f40d;	| &#x1f41f;	| &#x1f441;	| &#x1f464; &#x1f5e3; &#x1f480;	| &#x1f31e; &#x2600;&#xfe0f; &#x1f506; &#x1f33b;	| &#x1F444;	| &#x274c; &#x271d;&#xfe0f; &#x274e;	|
+
+### Proto-Sinaitic Overview
 
 | Codepoints	| Emojis	| Letter | Representation |
 |-----------	|-------	|-------	|-----------	|
@@ -22,6 +26,8 @@
 | U+1F444	| &#x1F444;	| S _šin_	| tooth	|
 | U+274C / U+271d / U+274e	| &#x274c; / &#x271d;&#xfe0f; / &#x274e;	| T _tāw_	| mark	|
 
+### Proto-Sinaitic Swatches
+
 {% include mini-swatch.html codepoint="1f42e" name="ʾalp (ox)" %}<!-- A -->
 {% include mini-swatch.html codepoint="1f3e0" name="bet (house)" %}<!-- B -->
 {% include mini-swatch.html codepoint="1f64c" name="hll (jubilation)" %}<!-- E; Unicode 10: 1f932 Palms up Together; 
@@ -38,9 +44,13 @@ include mini-swatch.html codepoint="1f31e" name="šin (tooth)" -->
 
 ## Phoenician Emoji Alphabet
 
+### Phoenician Set
+
 | A	| B	| C/G | D | E	| F/V/W/U | Z | H | TH | I/J | K	| L | M	| N	| X | O | Q	| P/R	| S	| T	|
 |---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
  &#x1f42e;	| &#x1f3e0;	| &#x1f42a;	| &#x1f6aa;	| &#x1f5bc;	| &#x2693;	| &#x1f5e1;	| &#x1f3df;	| &#x1f3a1;	| &#x1f4aa;	| &#x270b;	| &#x1f302;	| &#x1f30a;	| &#x1f41f;	| &#x1f529;	| &#x1f441;	| &#x1f445;	| &#x1f331;	| &#x1f4cd;	| &#x1f464;	| &#x1f444;	| &#x274c;	| 
+
+### Phoenician Overview
 
 | Codepoints	| Emojis	| Letter | Representation |
 |-----------	|-------	|-------	|-----------	|
@@ -66,6 +76,8 @@ include mini-swatch.html codepoint="1f31e" name="šin (tooth)" -->
 | U+1F464	| &#x1f464;	| 𐤓 rēš	| head	|
 | U+1F444	| &#x1f444;	| 𐤔 šīn	| tooth	|
 | U+274C	| &#x274c;	| 𐤕 tāw	| mark	|
+
+### Phoenician Swatches
 
 {% include mini-swatch.html codepoint="1f42e" name="𐤀 ʾālep (ox)" %}<!-- A; bull, cattle head -->
 {% include mini-swatch.html codepoint="1f3e0" name="𐤁 bēt (house)" %}<!-- B; floorplan -->
