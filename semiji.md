@@ -4,19 +4,19 @@
 
 | Codepoints	| Emojis	| Letter | Representation |
 |-----------	|-------	|-------	|-----------	|
-| U+1f42e	| &#x1f42e;	| A _ʾalp_	| ox	|
-| U+1f3e0	| &#x1f3e0;	| B _bet_ | house	|
-| U+1f64c / 1f932	| &#x1f64c; / &#x1f932;	| E _hll_	| jubilation	|
-| U+1f5bc	| &#x1f5bc;	| E _he_	| window	|
-| U+270b	| &#x270b;	| K _kaf_	| palm	|
-| U+1f4a7 / U+1f4a6 / U+1f30a	| &#x1f4a7; / &#x1f4a6; / &#x1f30a;	| M _mayim_	| water	|
-| U+1f40d	| &#x1f40d;	| N _naḥš_	| snake	|
-| U+1f41f	| &#x1f41f;	| N _nun_	| fish	|
-| U+1f441	| &#x1f441;	| O _ʿen_	| eye	|
-| U+1f464 / U+1f5e3 / U+1f480	| &#x1f464; / &#x1f5e3; / &#x1f480;	| P/R _roʾš_	| head	|
-| U+1f31e / U+2600 / U+1f506 / U+1f33b	| &#x1f31e; / &#x2600;&#xfe0f; / &#x1f506; / &#x1f33b;	| S _šimš_	| sun	|
-| U+1f444	| &#x1f444;	| S _šin_	| tooth	|
-| U+274c / U+271d / U+274e	| &#x274c; / &#x271d;&#xfe0f; / &#x274e;	| T _tāw_	| mark	|
+| U+1F42E	| &#x1f42e;	| A _ʾalp_	| ox	|
+| U+1F3E0	| &#x1f3e0;	| B _bet_ | house	|
+| U+1F64C / U+1F932	| &#x1f64c; / &#x1f932;	| E _hll_	| jubilation	|
+| U+1F5BC	| &#x1f5bc;	| E _he_	| window	|
+| U+270B	| &#x270b;	| K _kaf_	| palm	|
+| U+1F4A7 / U+1f4a6 / U+1f30a	| &#x1f4a7; / &#x1f4a6; / &#x1f30a;	| M _mayim_	| water	|
+| U+1F40D	| &#x1f40d;	| N _naḥš_	| snake	|
+| U+1F41F	| &#x1f41f;	| N _nun_	| fish	|
+| U+1F441	| &#x1f441;	| O _ʿen_	| eye	|
+| U+1F464 / U+1F5E3 / U+1F480	| &#x1f464; / &#x1f5e3; / &#x1f480;	| P/R _roʾš_	| head	|
+| U+1F31e / U+2600 / U+1F506 / U+1F33B	| &#x1f31e; / &#x2600;&#xfe0f; / &#x1f506; / &#x1f33b;	| S _šimš_	| sun	|
+| U+1F444	| &#x1F444;	| S _šin_	| tooth	|
+| U+274C / U+271d / U+274e	| &#x274c; / &#x271d;&#xfe0f; / &#x274e;	| T _tāw_	| mark	|
 
 {% include mini-swatch.html codepoint="1f42e" name="ʾalp (ox)" %}<!-- A -->
 {% include mini-swatch.html codepoint="1f3e0" name="bet (house)" %}<!-- B -->
@@ -33,6 +33,32 @@ include mini-swatch.html codepoint="1f31e" name="šin (tooth)" -->
 {% include mini-swatch.html codepoint="274c" name="tāw (mark)" %}<!-- T; 271d latin cross, 274e cross mark button, 2620 Crossbones, 2694 Crossed Swords, 1f38c Crossed Flags; cross -->
 
 ## Phoenician Emoji Alphabet
+
+| Codepoints	| Emojis	| Letter | Representation |
+|-----------	|-------	|-------	|-----------	|
+| U+1F42E	| &#x1f42e;	| 𐤀 ʾālep	| ox	|
+| U+1F3E0	| &#x1f3e0;	| 𐤁 bēt	| house	|
+| U+1F42A	| &#x1f42a;	| 𐤂 gīml	| camel	|
+| U+1F6AA	| &#x1f6aa;	| 𐤃 dālet	| door	|
+| U+1F5BC	| &#x1f5bc;	| 𐤄 hē	| window	|
+| U+2693	| &#x2693;	| 𐤅 wāw	| hook	|
+| U+1F5E1	| &#x1f5e1;	| 𐤆 zayin	| weapon	|
+| U+1F3Df	| &#x1f3df;	| 𐤇 ḥēt	| courtyard	|
+| U+1F3A1	| &#x1f3a1;	| 𐤈 ṭēt	| wheel	|
+| U+1F4AA	| &#x1f4aa;	| 𐤉 yōd	| hand	|
+| U+270B	| &#x270b;	| 𐤊 kāp	| palm	|
+| U+1F302	| &#x1f302;	| 𐤋 lāmed	| goad	|
+| U+1F30A	| &#x1f30a;	| 𐤌 mēm	| water	|
+| U+1F41F	| &#x1f41f;	| 𐤍 nūn	| eel	|
+| U+1F529	| &#x1f529;	| 𐤎 sāmek	| pillar	|
+| U+1F441	| &#x1f441;	| 𐤏 ʿayin	| eye	|
+| U+1F445	| &#x1f445;	| 𐤐 pē	| mouth	|
+| U+1F331	| &#x1f331;	| 𐤑 ṣādē	| plant	|
+| U+1F4CD	| &#x1f4cd;	| 𐤒 qōp	| needle eye	|
+| U+1F464	| &#x1f464;	| 𐤓 rēš	| head	|
+| U+1F444	| &#x1f444;	| 𐤔 šīn	| tooth	|
+| U+274C	| &#x274c;	| 𐤕 tāw	| mark	|
+
 
 {% include mini-swatch.html codepoint="1f42e" name="𐤀 ʾālep (ox)" %}<!-- A; bull, cattle head -->
 {% include mini-swatch.html codepoint="1f3e0" name="𐤁 bēt (house)" %}<!-- B; floorplan -->
