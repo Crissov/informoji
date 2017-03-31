@@ -3,5 +3,5 @@ rvm: 2.2
 cache: bundler
 sudo: false
 
-install: script/bootstrap
-script: script/cibuild
+install: gem install jekyll		
+script: jekyll build
