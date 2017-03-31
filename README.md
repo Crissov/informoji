@@ -1,4 +1,4 @@
-Emoji information by [@Informoji](http://twitter.com/Informoji).
+Emoji information by [@Informoji](http://twitter.com/Informoji). [![Build Status](https://travis-ci.org/Crissov/informoji.svg?branch=master)](https://travis-ci.org/Crissov/informoji)
 
 ## Various Emoji Samples
 
