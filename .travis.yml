@@ -1,9 +1,7 @@
 language: ruby
-
-rvm:
-- 2.3.3
-
-install: gem install jekyll
-script: jekyll build
-
+rvm: 2.2
+cache: bundler
 sudo: false
+
+install: script/bootstrap
+script: script/cibuild
