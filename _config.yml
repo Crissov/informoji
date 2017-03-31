@@ -1,7 +1,7 @@
 title: Informoji
 description: Emoji and Unicode information
 show_downloads: false
-theme: jekyll-theme-tactile
+theme: jekyll-theme-dinky
 navbar-links:
   Twitter: "http://twitter.com/Informoji"
   Github: "http://github.com/Crissov/informoji/"
