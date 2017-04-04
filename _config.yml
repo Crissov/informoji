@@ -14,3 +14,5 @@ author:
 #  twitter: Cr1ss0v
   stackoverflow: "3002699/crissov"
   stackexchange: "3589744/crissov"
+
+permalink: /:category/:title
